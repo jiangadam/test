@@ -7,4 +7,4 @@
  */
 
 
-asdasdasd
+echo 'asdasdasd';
